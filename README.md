@@ -76,7 +76,6 @@ SportsPoliticsClassifier/
 │
 ├── classifier.py # Main classification script
 ├── experiment.ipynb # Development notebook with experiments
-├── requirements.txt # Python dependencies
 ├── data/
 │ ├── sports.txt
 │ └── politics.txt
@@ -130,4 +129,5 @@ python classifier.py
 
 Your Zobiya 
 Course name: NLU / Semester 2
+
 
