@@ -71,6 +71,7 @@ Linear SVM achieved the highest accuracy.
 
 ## Project Structure
 
+```
 SportsPoliticsClassifier/
 │
 ├── classifier.py # Main classification script
@@ -80,7 +81,7 @@ SportsPoliticsClassifier/
 │ ├── sports.txt
 │ └── politics.txt
 └── README.md
-
+```
 ---
 
 ## Dependencies
@@ -129,3 +130,4 @@ python classifier.py
 
 Your Zobiya 
 Course name: NLU / Semester 2
+
