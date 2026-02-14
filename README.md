@@ -127,7 +127,8 @@ python classifier.py
 
 ## Author
 
-Your Zobiya 
-Course name: NLU / Semester 2
+Zobiya 
+Course: NLU / Semester 2
+
 
 
